@@ -1,0 +1,11 @@
+{
+  "city": "Sarnia",
+  "api_key": "516188b563064c1a333f71f460de4fb0",
+  "interval_minutes": 1,
+  "units": "metric",
+  "window_title": "Nikita - c0958762 - Weather",
+  "position": {
+    "x": 200,
+    "y": 120
+  }
+}
